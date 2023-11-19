@@ -1,0 +1,2 @@
+# Data-Extraction--web-scraping-and-NLP
+This project involves scraping a company's website using a provided URL list to generate individual output files for each URL, including content and URL links. Ultimately, it produces an output file containing URL IDs, links, total positive and negative scores determined by input positive and negative words. Additionally, it calculates total word count, syllable count, complex word count, and personal pronoun count for each link's content.
